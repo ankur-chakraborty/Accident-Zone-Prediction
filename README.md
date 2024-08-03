@@ -28,7 +28,7 @@ Traffic accidents are a significant concern globally, leading to injuries, fatal
 
 ## Project Report
 
-For a detailed project report, you can refer to [Project Report PDF] https://github.com/utoo0703/ACCIDENT-ZONE-PREDICTION/blob/main/Project%20Report.pdf
+For a detailed project report, you can refer to [Project Report PDF] https://github.com/ankur-chakraborty/Accident-Zone-Prediction/blob/main/Project%20Report.pdf
 ## Project Structure
 
 |-- venv/
@@ -38,8 +38,6 @@ For a detailed project report, you can refer to [Project Report PDF] https://git
 | |-- AccidentsBig.csv
 | |-- CasualtiesBig.csv
 | |-- VehiclesBig.csv
-|-- images/
-|-- maps/
 |-- Accident_Predictions.csv
 |-- .gitignore
 |-- README.md
